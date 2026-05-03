@@ -22,6 +22,14 @@
     "directory": "card",
     "groups": [
       {
+        "group": "Getting Started",
+        "icon": "compass",
+        "expanded": true,
+        "pages": [
+          "welcome"
+        ]
+      },
+      {
         "group": "For Facilities",
         "icon": "building-2",
         "expanded": true,
