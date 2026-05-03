@@ -5,8 +5,8 @@
   "description": "Help and documentation for SpotlightVendor — vendor compliance and bid management for senior living and healthcare facilities.",
   "colors": {
     "primary": "#3D6BFF",
-    "light": "#5B82FF",
-    "dark": "#2750CC"
+    "light": "#4164EB",
+    "dark": "#2D54E6"
   },
   "favicon": "/favicon.ico",
   "icons": {
@@ -49,7 +49,7 @@
       },
       {
         "group": "For Vendors",
-        "icon": "wrench",
+        "icon": "handshake",
         "expanded": true,
         "root": "vendors/index",
         "pages": [
