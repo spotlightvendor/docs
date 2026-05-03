@@ -109,7 +109,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Open SpotlightVendor",
+      "label": "Sign in",
       "href": "https://app.spotlightvendor.com"
     }
   },
