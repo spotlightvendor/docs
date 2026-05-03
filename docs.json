@@ -65,6 +65,7 @@
         "expanded": true,
         "root": "compliance/index",
         "pages": [
+          "compliance/levels-explained",
           "compliance/what-we-accept",
           "compliance/upload-documents",
           "compliance/expiration-alerts",
