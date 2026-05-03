@@ -35,6 +35,19 @@
         ]
       },
       {
+        "group": "For Property Managers",
+        "icon": "briefcase",
+        "expanded": true,
+        "root": "property-managers/index",
+        "pages": [
+          "property-managers/getting-started",
+          "property-managers/add-facilities",
+          "property-managers/portfolio-compliance",
+          "property-managers/portfolio-rfps",
+          "property-managers/multi-site-billing"
+        ]
+      },
+      {
         "group": "For Vendors",
         "icon": "wrench",
         "expanded": true,
