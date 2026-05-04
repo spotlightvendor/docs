@@ -94,6 +94,15 @@
           "account/update-profile",
           "account/contact-support"
         ]
+      },
+      {
+        "group": "Resources",
+        "icon": "book-open",
+        "expanded": true,
+        "pages": [
+          "faq",
+          "changelog"
+        ]
       }
     ]
   },
